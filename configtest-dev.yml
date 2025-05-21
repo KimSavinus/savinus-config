@@ -1,4 +1,4 @@
 #name: https://github.com/KimSavinus/savinus-config.git/configtest-dev.yml
 #source:
-  savinus:
+savinus:
     value: dev-test-value
