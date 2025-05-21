@@ -1,4 +1,6 @@
 name: https://github.com/KimSavinus/savinus-config.git
 source:
-  savinus:
-    value: dev-test-value
+  {
+    savinus:
+      value: dev-test-value
+  }
